@@ -39,6 +39,7 @@ Submit an [issue](https://github.com/jamrizzi/readthedocs-styles/issues/new)
 
 ## Screenshots
 
+#### Orange Style
 ![readthedocs-orange-style](https://user-images.githubusercontent.com/6234038/37364332-7a440bee-26fa-11e8-9ab2-9bfb5e48abef.jpg)
 
 
