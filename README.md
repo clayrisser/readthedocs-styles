@@ -16,8 +16,11 @@ Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
 
 ## Installation
 
+Assume you have a project setup with readthedocs at `~/some-project`
+
 ```sh
 git clone git@github.com:jamrizzi/readthedocs-styles.git
+cp -r orange/* ~/some-project/docs
 ```
 
 
@@ -27,11 +30,6 @@ git clone git@github.com:jamrizzi/readthedocs-styles.git
 * [GNU Make](https://www.gnu.org/software/make)
 * [Sphinx](http://www.sphinx-doc.org)
 * [Read The Docs Sphinx Theme](https://sphinx-rtd-theme.readthedocs.io)
-
-
-## Usage
-
-[Contribute](https://github.com/jamrizzi/readthedocs-styles/blob/master/CONTRIBUTING.md) usage docs
 
 
 ## Support
