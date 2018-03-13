@@ -1,0 +1,10 @@
+# Editors
+*~
+.\#*
+\#*\#
+.idea/
+
+# Application
+/docs/build
+/docs/_static
+/env
